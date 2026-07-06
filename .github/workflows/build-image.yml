@@ -7,7 +7,7 @@ on:
 
 env:
     GITLAB_REGISTRY: registry.gitlab.com
-    GITLAB_PROJECT: taquangku-project/flutter-app
+    GITLAB_PROJECT: taquangku-group/taquangku-project
 
 jobs:
     build-and-push:
